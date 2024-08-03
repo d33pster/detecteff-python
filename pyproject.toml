@@ -14,3 +14,6 @@ module-name = "detecteff.rust"
 
 [project.scripts]
 detectf = "detecteff:core.run"
+
+[project.urls]
+GitHub = "https://github.com/d33pster/detecteff-python"
