@@ -1,3 +1,5 @@
+[![Downloads](https://static.pepy.tech/badge/detecteff-python)](https://pepy.tech/project/detecteff-python)
+
 # Overview
 
 `Detecteff` was originally written in rust but now has python bindings.
